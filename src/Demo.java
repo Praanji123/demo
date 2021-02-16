@@ -6,5 +6,8 @@ public class Demo {
 
 
         System.out.println("some changes are made");
+
+        System.out.println("second branch is made");
+
     }
 }
